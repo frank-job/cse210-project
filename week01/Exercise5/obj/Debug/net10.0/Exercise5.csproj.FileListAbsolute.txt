@@ -1,0 +1,15 @@
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\bin\Debug\net10.0\Exercise5.exe
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\bin\Debug\net10.0\Exercise5.deps.json
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\bin\Debug\net10.0\Exercise5.runtimeconfig.json
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\bin\Debug\net10.0\Exercise5.dll
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\bin\Debug\net10.0\Exercise5.pdb
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\obj\Debug\net10.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\obj\Debug\net10.0\Exercise5.AssemblyInfoInputs.cache
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\obj\Debug\net10.0\Exercise5.AssemblyInfo.cs
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\obj\Debug\net10.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\obj\Debug\net10.0\Exercise5.sourcelink.json
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\obj\Debug\net10.0\Exercise5.dll
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\obj\Debug\net10.0\refint\Exercise5.dll
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\obj\Debug\net10.0\Exercise5.pdb
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\obj\Debug\net10.0\Exercise5.genruntimeconfig.cache
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week01\Exercise5\obj\Debug\net10.0\ref\Exercise5.dll
