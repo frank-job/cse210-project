@@ -21,10 +21,7 @@ class Program
             numbers.Add(UserNumber);
             }
         }
-            // int sum = 0;
-            // foreach (int number in numbers)
-            // {
-            // sum += number;
+          
             if (numbers.Count > 0)
             {
                 int sum = 0;
@@ -38,10 +35,7 @@ class Program
             float average = ((float)sum) / numbers.Count;
             Console.WriteLine($"The average i {average}");
         
-        /// <summary>
-        /// Initializes the maximum value to the first element of the numbers array.
-        /// </summary>
-        /// 
+      
             int max = numbers[0];
 
             foreach (int number in numbers)
