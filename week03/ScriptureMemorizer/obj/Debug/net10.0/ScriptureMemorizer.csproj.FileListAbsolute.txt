@@ -1,0 +1,15 @@
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.exe
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.deps.json
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.runtimeconfig.json
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.dll
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.pdb
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.AssemblyInfoInputs.cache
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.AssemblyInfo.cs
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.sourcelink.json
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.dll
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\obj\Debug\net10.0\refint\ScriptureMemorizer.dll
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.pdb
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.genruntimeconfig.cache
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\ScriptureMemorizer\obj\Debug\net10.0\ref\ScriptureMemorizer.dll
