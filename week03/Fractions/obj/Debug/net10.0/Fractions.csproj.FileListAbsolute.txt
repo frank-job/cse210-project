@@ -1,0 +1,5 @@
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\Fractions\obj\Debug\net10.0\Fractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\Fractions\obj\Debug\net10.0\Fractions.AssemblyInfoInputs.cache
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\Fractions\obj\Debug\net10.0\Fractions.AssemblyInfo.cs
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\Fractions\obj\Debug\net10.0\Fractions.csproj.CoreCompileInputs.cache
+C:\Users\YakAn FrAnK\Desktop\cse210-project\week03\Fractions\obj\Debug\net10.0\Fractions.sourcelink.json
