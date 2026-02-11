@@ -13,17 +13,19 @@ public class ChecklistGoal : Goal
         _amountCompleted = 0;
     }
 
-    public override void RecordEvent()
+    public override int RecordEvent()
     {
         _amountCompleted++;
         if (_amountCompleted == _target)
         {
             Console.WriteLine($"Congratulations! You have earned {_points + _bonus} points!");
             Console.WriteLine($"You finished the checklist bonus! +{_bonus}");
+            return _points + _bonus;
         }
         else
         {
             Console.WriteLine($"Congratulations! You have earned {_points} points!");
+            return _points;
         }
     }
 
@@ -41,8 +43,7 @@ public class ChecklistGoal : Goal
     {
         return $"ChecklistGoal:{_shortName},{_description},{_points},{_bonus},{_target},{_amountCompleted}";
     }
-    
-    // Setter for loading from file
+
     public void SetAmountCompleted(int count)
     {
         _amountCompleted = count;

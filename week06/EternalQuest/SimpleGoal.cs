@@ -9,16 +9,18 @@ public class SimpleGoal : Goal
         _isComplete = false;
     }
 
-    public override void RecordEvent()
+    public override int RecordEvent()
     {
         if (!_isComplete)
         {
             _isComplete = true;
             Console.WriteLine($"Congratulations! You have earned {_points} points!");
+            return _points;
         }
         else
         {
             Console.WriteLine("You have already completed this goal.");
+            return 0;
         }
     }
 
@@ -30,5 +32,10 @@ public class SimpleGoal : Goal
     public override string GetStringRepresentation()
     {
         return $"SimpleGoal:{_shortName},{_description},{_points},{_isComplete}";
+    }
+
+    public void SetComplete(bool complete)
+    {
+        _isComplete = complete;
     }
 }

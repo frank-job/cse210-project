@@ -27,7 +27,7 @@ public class GoalManager
             Console.WriteLine("  5. Record Event");
             Console.WriteLine("  6. Quit");
             Console.Write("Select a choice from the menu: ");
-            
+
             choice = int.Parse(Console.ReadLine());
 
             if (choice == 1) CreateGoal();
@@ -41,7 +41,7 @@ public class GoalManager
     public void DisplayPlayerInfo()
     {
         Console.WriteLine($"\nYou have {_score} points.");
-        
+
         // --- CREATIVITY: LEVELING SYSTEM ---
         int level = (_score / 1000) + 1;
         Console.WriteLine($"Current Level: {level}");
@@ -98,14 +98,11 @@ public class GoalManager
 
         if (index >= 0 && index < _goals.Count)
         {
-            _goals[index].RecordEvent();
-            
+            int pointsEarned = _goals[index].RecordEvent();
+
             // Add points logic
-            _score += _goals[index].GetPoints();
-            
-            // Add bonus if checklist complete (Simplified logic for now)
-            // Note: The specific bonus logic is inside ChecklistGoal class
-            
+            _score += pointsEarned;
+
             Console.WriteLine($"You now have {_score} points.");
         }
     }
@@ -143,8 +140,7 @@ public class GoalManager
             if (type == "SimpleGoal")
             {
                 SimpleGoal newGoal = new SimpleGoal(data[0], data[1], int.Parse(data[2]));
-                // If it was completed, mark it (This requires modifying SimpleGoal slightly or handling logic here)
-                // For simplicity in this demo, we assume incomplete or add a Setter
+                newGoal.SetComplete(bool.Parse(data[3]));
                 _goals.Add(newGoal);
             }
             else if (type == "EternalGoal")
